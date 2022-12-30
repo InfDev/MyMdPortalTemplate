@@ -1,7 +1,7 @@
 # Мой информационный портал
 
 Включает сайты:
-- [Общие материалы](CommonMaterials/README.md)
+- [Общие материалы](CommonMaterials/docs/index.md)
 
 ----
 
